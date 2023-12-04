@@ -1,29 +1,13 @@
-# Exercise 4.3—Levels
-
-Exercise for MSCH-C220
-
-An for the 2D Platformer project, exploring the TileMap node.
-
+# 4.2
+Context and date
+Description
 
 ## Implementation
-
-Built using Godot 4.1.1
-
-The player sprite adapted from [MV Platformer Male](https://opengameart.org/content/mv-platformer-male-32x64) by MoikMellah. CC0 Licensed.
-
-The terrain spritemap is from the [Abstract Platformer package](https://kenney.nl/assets/abstract-platformer) available at Kenney.nl.
-
+this was exceedingly difficult because the tiles crashed my godot. BUT it works now?
+## What Makes this a Game?
 
 ## References
 
-None
-
-
 ## Future Development
 
-None
-
-
-## Created by 
-
-Penelope Watson 
+## Created by Penelope Watson
